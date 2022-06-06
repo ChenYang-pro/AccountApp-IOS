@@ -106,12 +106,6 @@ function BottomTabNavigator() {
                   color={Colors[colorScheme].text}
                   style={{ marginRight: 15 }}
                 />
-                <FontAwesome
-                  name="info-circle"
-                  size={25}
-                  color={Colors[colorScheme].text}
-                  style={{ marginRight: 15 }}
-                />
               </View>
             </Pressable>
           ),
